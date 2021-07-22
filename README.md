@@ -4,6 +4,7 @@
 Materials will appear here shortly after the session.
 
 ## Resources
+- [Turing Interest Groups](https://www.turing.ac.uk/research/interest-groups/)
 - [Quantifying the UK Data Skills Gap](https://www.gov.uk/government/publications/quantifying-the-uk-data-skills-gap/quantifying-the-uk-data-skills-gap-full-report)
 - [Understanding the UK AI labour market: 2020](https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020)
 - [AI Data Specialist Apprenticeship Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0)

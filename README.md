@@ -1,4 +1,6 @@
 # Cambridge Spark Industry Expert Insights #8 - Monday 22nd July 2021
+
+<img src="mainslide.png" alt="Cambridge Spark Industry Expert Insights #8 - Monday 22nd July 2021" />
 Materials will appear here shortly after the session.
 
 ## Resources

@@ -2,7 +2,7 @@
 
 <img src="mainslide.png" alt="Cambridge Spark Industry Expert Insights #8 - Monday 22nd July 2021" />
 
-Slide deck as <a href="CS-IndustryExpertInsights-July2021.pdf">PDF</a>.
+Slide deck as <a href="Skills Landscape - Cambridge Spark BBC - July 2021.pdf">PDF</a>.
 
 ## Thank you!
 Thank you to Kieran at <a href="https://www.cambridgespark.com/">Cambridge Spark</a> and Huw at <a href="https://bbc.co.uk">BBC</a> for organising the session. It would be fantastic to stay in touch, so please do not hesitate to get in touch with me at the contact details below.
